@@ -1,4 +1,4 @@
-"""Evaluator for the Erdos Heilbronn triangle 2.0 problem."""
+"""Evaluator for the Heilbronn triangle 2.0 problem."""
 
 from __future__ import annotations
 
